@@ -1,0 +1,29 @@
+{
+  "tables":[
+    {
+      "preamble":{
+        "id":123,
+        "name":"preamble_yeet",
+        "alias":"aldslfsd"
+      },
+      "match_fields":[
+        {
+          "id":123,
+          "name":"name",
+          "bitwidth":123,
+          "Match":{
+            "MatchType":2
+          },
+          "type_name":{
+            "name":"yeet"
+          }
+        }
+      ],
+      "action_refs":[
+        {
+          "id":123
+        }
+      ]
+    }
+  ]
+}
